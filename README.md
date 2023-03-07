@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a full-stack developer with experience in JavaScript, HTML5, Java, MySQL, Node.js, React, and Express. I have experience developing both the front-end and back-end of web applications, creating user interfaces and working with databases. I am an efficient problem solver and I am comfortable working with a variety of technologies. I am passionate about creating applications that are user-friendly and secure.
+I am an accomplished full-stack developer with a wealth of experience in utilizing JavaScript, HTML5, Java, MySQL, Node.js, React, and Express. I am capable of developing both the front-end and back-end of web applications, constructing user interfaces and manipulating databases. I am a masterful problem solver and have a comprehensive comprehension of a variety of technologies. It is my ambition to create applications that are user-friendly and secure..
 <!--
 **Jacob-Calderon/Jacob-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
